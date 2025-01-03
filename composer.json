@@ -1,0 +1,23 @@
+{
+    "name": "tomas/aplicacio-de-gestio-per-daw",
+    "description": "E-commerce bàsic desenvolupat en PHP per gestionar productes i categories.",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "phpmailer/phpmailer",
+        "phpmailer/phpmailer": "guzzlehttp/guzzle",
+        "guzzle/guzzle": "guzzlehttp/guzzle"
+    },
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Tomas\\AplicacioDeGestioPerDaw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomas Payeras Picazo",
+            "email": "tomaspayeras@paucasesnovescifp.cat"
+        }
+    ],
+    "minimum-stability": "stable"
+}
