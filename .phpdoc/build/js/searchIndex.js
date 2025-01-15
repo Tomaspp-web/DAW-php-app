@@ -3,22 +3,22 @@ Search.appendIndex(
                 {
             "fqsen": "\\Actualitzar",
             "name": "Actualitzar",
-            "summary": "",
+            "summary": "Classe\u0020per\u0020actualitzar\u0020productes\u0020a\u0020la\u0020base\u0020de\u0020dades.",
             "url": "classes/Actualitzar.html"
         },                {
             "fqsen": "\\Actualitzar\u003A\u003Aactualizar\u0028\u0029",
             "name": "actualizar",
-            "summary": "",
+            "summary": "M\u00E8tode\u0020per\u0020actualitzar\u0020un\u0020producte\u0020a\u0020la\u0020base\u0020de\u0020dades.",
             "url": "classes/Actualitzar.html#method_actualizar"
         },                {
             "fqsen": "\\Connexio",
             "name": "Connexio",
-            "summary": "",
+            "summary": "Classe\u0020per\u0020gestionar\u0020la\u0020connexi\u00F3\u0020a\u0020la\u0020base\u0020de\u0020dades.",
             "url": "classes/Connexio.html"
         },                {
             "fqsen": "\\Connexio\u003A\u003AobtenirConnexio\u0028\u0029",
             "name": "obtenirConnexio",
-            "summary": "",
+            "summary": "Obt\u00E9\u0020la\u0020connexi\u00F3\u0020a\u0020la\u0020base\u0020de\u0020dades.",
             "url": "classes/Connexio.html#method_obtenirConnexio"
         },                {
             "fqsen": "\\Connexio\u003A\u003A\u0024host",
@@ -43,42 +43,42 @@ Search.appendIndex(
         },                {
             "fqsen": "\\Footer",
             "name": "Footer",
-            "summary": "",
+            "summary": "Classe\u0020per\u0020mostrar\u0020el\u0020peu\u0020de\u0020p\u00E0gina\u0020\u0028footer\u0029.",
             "url": "classes/Footer.html"
         },                {
             "fqsen": "\\Footer\u003A\u003AmostrarFooter\u0028\u0029",
             "name": "mostrarFooter",
-            "summary": "",
+            "summary": "M\u00E8tode\u0020per\u0020mostrar\u0020el\u0020peu\u0020de\u0020p\u00E0gina.",
             "url": "classes/Footer.html#method_mostrarFooter"
         },                {
             "fqsen": "\\Header",
             "name": "Header",
-            "summary": "",
+            "summary": "Classe\u0020per\u0020mostrar\u0020l\u0027encap\u00E7alament\u0020\u0028header\u0029\u0020de\u0020la\u0020p\u00E0gina\u0020web.",
             "url": "classes/Header.html"
         },                {
             "fqsen": "\\Header\u003A\u003AmostrarHeader\u0028\u0029",
             "name": "mostrarHeader",
-            "summary": "",
+            "summary": "M\u00E8tode\u0020per\u0020mostrar\u0020l\u0027encap\u00E7alament\u0020de\u0020la\u0020p\u00E0gina.",
             "url": "classes/Header.html#method_mostrarHeader"
         },                {
             "fqsen": "\\Modificar",
             "name": "Modificar",
-            "summary": "",
+            "summary": "Classe\u0020per\u0020modificar\u0020la\u0020informaci\u00F3\u0020d\u0027un\u0020producte.",
             "url": "classes/Modificar.html"
         },                {
             "fqsen": "\\Modificar\u003A\u003AmostrarFormulari\u0028\u0029",
             "name": "mostrarFormulari",
-            "summary": "",
+            "summary": "M\u00E8tode\u0020per\u0020mostrar\u0020el\u0020formulari\u0020de\u0020modificaci\u00F3\u0020d\u0027un\u0020producte.",
             "url": "classes/Modificar.html#method_mostrarFormulari"
         },                {
             "fqsen": "\\Principal",
             "name": "Principal",
-            "summary": "",
+            "summary": "Classe\u0020per\u0020mostrar\u0020la\u0020llista\u0020de\u0020productes.",
             "url": "classes/Principal.html"
         },                {
             "fqsen": "\\Principal\u003A\u003AmostrarProductes\u0028\u0029",
             "name": "mostrarProductes",
-            "summary": "",
+            "summary": "M\u00E8tode\u0020per\u0020mostrar\u0020la\u0020llista\u0020de\u0020productes.",
             "url": "classes/Principal.html#method_mostrarProductes"
         },                {
             "fqsen": "\\",
